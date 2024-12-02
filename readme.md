@@ -1,6 +1,6 @@
 # AI Agents for Blockchain Tracking and Rewards System
 
-This project integrates **AI agents** to monitor, track, and engage users across multiple blockchain networks. It allows for decentralized reward distribution, transaction tracking, content moderation, and cross-chain interactions. By using smart contracts, AI agents can automate user activities and enhance decentralized applications (DApps). This project enables a robust user engagement and reward system across ecosystems like **Solana**, **Ethereum**, **Aptos**, **Avalanche**, and **Sui**.
+This project integrates **AI agents** to monitor, track, and engage users across multiple blockchain networks in **DISCORD & TELEGRAM** . It allows for decentralized reward distribution, transaction tracking, content moderation, and cross-chain interactions. By using smart contracts, AI agents can automate user activities and enhance decentralized applications (DApps). This project enables a robust user engagement and reward system across ecosystems like **Solana**, **Ethereum**, **Aptos**, **Avalanche**, and **Sui**.
 
 The project is designed to be scalable, utilizing various blockchain protocols, smart contracts, and real-time data processing to offer enhanced user experiences and reward systems for decentralized applications.
 
